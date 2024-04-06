@@ -1,4 +1,4 @@
-# Banking System Backend With Spring SecurityAbhayKatarotiya
+# Banking System Backend With Spring Security
 
 ### Prerequisites
 * java 1.8.x
